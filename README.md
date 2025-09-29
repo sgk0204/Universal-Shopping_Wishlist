@@ -2,9 +2,6 @@
 
 A simple, lightweight Chrome Extension to save products from any online store into a single, clean wishlist.
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ## Description
