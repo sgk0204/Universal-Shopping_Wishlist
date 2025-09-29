@@ -57,8 +57,3 @@ A brief overview of the key files in this project:
 * `styles.css`: The stylesheet that defines the look and feel of the popup.
 * `icons/`: Contains the `.png` icons for the extension's toolbar and store listing.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
